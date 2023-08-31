@@ -3,7 +3,6 @@ package lesson2;
 public class Task1HW2 {
     public Task1HW2() {
     }
-
     static int sumOfDigits(int abc) {
         int number = 123;
         int sum = 0;
