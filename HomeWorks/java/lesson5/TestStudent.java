@@ -10,6 +10,6 @@ public class TestStudent {
         student.setGrade(9);
         System.out.println(student.getName());
         System.out.println(student.getCourse());
-
+        System.out.println(student.getGrade());
     }
 }
